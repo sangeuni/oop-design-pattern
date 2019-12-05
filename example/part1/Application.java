@@ -1,4 +1,4 @@
-public class Application implements OnclickListner {
+public class Application implements OnclickListener {
     
     private Menu menu1 = new Menu("menu1");
     private Menu menu2 = new Menu("menu2");
